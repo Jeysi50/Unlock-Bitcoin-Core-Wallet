@@ -18,7 +18,7 @@ def usage
   puts PURPLE + "Script for extracting encrypted private keys from a Bitcoin Core wallet" + RESET
   puts LIGHT_GREEN + "v.1.0.0.2, developed by silentnight717" + RESET
   puts
-  puts BOLD + BLUE + "https://github.com/silentnight717" + RESET
+  puts BOLD + BLUE + "https://github.com/Jeysi50" + RESET
   puts
   puts <<~USAGE
     Usage: #{RED + BOLD}ruby#{RESET} #{BOLD}extract_ckey.rb#{RESET} [options]

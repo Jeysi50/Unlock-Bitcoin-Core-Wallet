@@ -36,7 +36,7 @@ end
 puts "#{PURPLE}Script for analyzing encrypted ckeys from a Bitcoin Core wallet#{RESET}"
 puts "#{LIGHT_GREEN}v.1.0.0.2, developed by silentnight717#{RESET}"
 puts
-puts BLUE + BOLD + "https://github.com/silentnight717" + RESET
+puts BLUE + BOLD + "https://github.com/Jeysi50" + RESET
 puts
 
 # Ask for input

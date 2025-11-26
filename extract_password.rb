@@ -29,7 +29,7 @@ end
 puts PURPLE + "Script for extracting the encrypted password from a Bitcoin Core wallet" + RESET
 puts LIGHT_GREEN + "v.1.0.0.2, developed by silentnight717" + RESET
 puts
-puts BOLD + BLUE + "https://github.com/silentnight717" + RESET
+puts BOLD + BLUE + "https://github.com/Jeysi50" + RESET
 puts
 
 # User prompt for wallet.dat file path

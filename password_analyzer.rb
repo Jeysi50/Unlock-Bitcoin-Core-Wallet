@@ -168,7 +168,7 @@ end
 puts PURPLE + "Script for analyzing Bitcoin Core encrypted passwords" + RESET
 puts LIGHT_GREEN + "v.1.0.0.2, developed by silentnight717" + RESET
 puts
-puts BLUE + BOLD + "https://github.com/silentnight717" + RESET
+puts BLUE + BOLD + "https://github.com/Jeysi50" + RESET
 password_hex = get_password
 
   print "#{LIGHT_GRASS_GREEN}Analyzing"
