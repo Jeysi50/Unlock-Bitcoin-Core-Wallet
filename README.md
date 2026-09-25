@@ -58,4 +58,4 @@ ruby ckey_analyzer.rb
 
 ## Contact
 You can contact me at the email silentnight58070@proton.me for any questions. Don't open issues unless you're very sure of the problem. **compile_password.rb** script is not for free. 
-You can buy the compile_password.rb script directly here:https://nowpayments.io/payment/?iid=5909469655   Price: 6,700 USDT
+You can buy the compile_password.rb script directly here:https://nowpayments.io/payment/?iid=4702614472   Price: 250 USDT
